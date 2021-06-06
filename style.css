@@ -1,0 +1,15 @@
+#menu * {
+	border: solid 1px #aaa;
+	margin: 0px;
+	padding: 5px;
+	text-align: center;
+	width: 200px;
+}
+
+#menu dd {
+	background-color: #eee;
+	display: none;
+}
+#menu dt {
+	cursor: pointer;
+}
